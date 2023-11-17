@@ -1,0 +1,1 @@
+# LR_Raspoznavanie_rukopisnykh_tsifr
